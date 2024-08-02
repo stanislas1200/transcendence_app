@@ -30,9 +30,8 @@ git clone https://github.com/yourusername/transcendence_app.git
 - Run `transcendence_app.pde` in Processing IDE to start the application.
 - Navigate through the main menu to access different features and game modes.
 
-![Game Image](./images/Capture1.PNG)
-![Game Image](./images/Capture2.PNG)
-![Game Image](0.png)
+
+<p> <img src="./images/Capture1.PNG" alt="Game Image" width="200" height="150"/> <img src="./images/Capture2.PNG" alt="Game Image" width="200" height="150"/> <img src="0.png" alt="Game Image" width="200" height="150"/> </p>
 
 ### 👤 Authors
 - [**Godin Stanislas**](https://github.com/stanislas1200) - *Developer*
